@@ -8,7 +8,6 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 
 *   🌍  I'm based in Valencia, Spain.
 *   ✉️  You can contact me at [josemanuelbonocampos@gmail.com](mailto:josemanuelbonocampos@gmail.com)
-*   🧠  I'm learning Astro.
 *   🤝  I'm open to collaborating on interesting projects.
   
   ### Skills 
@@ -26,7 +25,7 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 #### Desktop Development
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://learn.microsoft.com/es-es/dotnet/desktop/wpf/overview/?view=netdesktop-8.0" target="_blank" rel="noreferrer"><img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" width="36" height="36" alt="C#" /></a>
+<a href="https://learn.microsoft.com/es-es/dotnet/desktop/wpf/overview/?view=netdesktop-8.0" target="_blank" rel="noreferrer"><img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" width="36" height="36" alt="WPF" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 
 #### Back-End
@@ -50,7 +49,13 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 <a href="https://visualstudio.microsoft.com/es/vs/community/" target="_blank" rel="noreferrer"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/05/vsmac-2022-icon.png" width="36" height="36" alt="Visual Studio" /></a>
 <a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="IntelIJ" /></a>
 <a href="https://eclipseide.org" target="_blank" rel="noreferrer"><img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" width="36" height="36" alt="Eclipse" /></a>
+
+### Learning
+<p align="left">
+<a href="https://astro.build" target="_blank" rel="noreferrer"><img src="https://astro.build/assets/press/astro-icon-light-gradient.png" width="36" height="36" alt="Astro" /></a>
   
+----------------
+
 ### Socials            
 <p align="left">
 <a href="https://www.github.com/TuTrolloLove" target="_blank" rel="noreferrer">
@@ -67,3 +72,5 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a></p>
+
+
