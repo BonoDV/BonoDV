@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm Junior Developer
 ----------------
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonodv" alt="bonodv" /></a> </p>
 Technician in Multiplatform Application Development. Now I'm focused on Web Development. I'm looking for my first job as Web Developer (Front-End, Back-End or Fullstack) or Desktop Developer.
 
 *   🌍  I'm based in Valencia, Spain.
@@ -65,4 +65,4 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 </picture>
 </a></p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonodv&show_icons=true&locale=en&layout=compact" alt="bonodv" /></p>
