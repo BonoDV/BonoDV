@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Junior Developer
 ----------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=BonoDV)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonodv&show_icons=true&locale=en&layout=compact" alt="bonodv" /></p>
+<br><br><br><br><br><br><br><br>
 Technician in Multiplatform Application Development. Now I'm focused on Web Development. I'm looking for my first job as Web Developer (Front-End, Back-End or Fullstack) or Desktop Developer.
 
 *   🌍  I'm based in Valencia, Spain.
@@ -22,8 +24,9 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-
-
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://astro.build" target="_blank" rel="noreferrer"><img src="https://astro.build/assets/press/astro-icon-light-gradient.png" width="36" height="36" alt="Astro" /></a>
+  
 #### Desktop Development
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -51,10 +54,6 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 <a href="https://visualstudio.microsoft.com/es/vs/community/" target="_blank" rel="noreferrer"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/05/vsmac-2022-icon.png" width="36" height="36" alt="Visual Studio" /></a>
 <a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="IntelIJ" /></a>
 <a href="https://eclipseide.org" target="_blank" rel="noreferrer"><img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" width="36" height="36" alt="Eclipse" /></a>
-
-### Learning
-<p align="left">
-<a href="https://astro.build" target="_blank" rel="noreferrer"><img src="https://astro.build/assets/press/astro-icon-light-gradient.png" width="36" height="36" alt="Astro" /></a>
   
 ----------------
 
@@ -67,4 +66,3 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 </picture>
 </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonodv&show_icons=true&locale=en&layout=compact" alt="bonodv" /></p>
