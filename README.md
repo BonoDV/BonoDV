@@ -6,7 +6,9 @@ I'm Junior Developer
 [![trophy](https://github-profile-trophy.vercel.app/?username=BonoDV)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonodv&show_icons=true&locale=en&layout=compact" alt="bonodv" /></p>
-<br><br><br><br><br><br><br><br>
+
+![Codewars](https://github.r2v.ch/codewars?user=Bono0000&theme=gradient&hide_clan=true)
+<br>
 Technician in Multiplatform Application Development. Now I'm focused on Web Development. I'm looking for my first job as Web Developer (Front-End, Back-End or Fullstack) or Desktop Developer.
 
 *   🌍  I'm based in Valencia, Spain.
