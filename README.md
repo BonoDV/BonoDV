@@ -48,6 +48,7 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 <a href="https://learn.microsoft.com/es-es/sql/sql-server/what-s-new-in-sql-server-2022?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/1*-hkzF9m5828c-UIaSQNUug.jpeg" width="36" height="36" alt="SQL Server Management" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="36" height="36" alt="MongoDB" /></a>
   
 #### DevOps
 <p align="left">
