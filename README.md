@@ -11,7 +11,7 @@ I'm Junior Full-Stack Developer
 
 ![Codewars](https://github.r2v.ch/codewars?user=Bono0000&theme=gradient&hide_clan=true)
 <br>
-Technician in Multiplatform Application Development. Now I'm focused on Web Development. I'm looking for my first job as Web Developer (Front-End, Back-End or Fullstack) or Desktop Developer.
+Technician in Multiplatform Application Development. Now I'm focused on Web Development. I'm looking for my first job as Web Developer (Front-End, Back-End or Full-Stack).
 
 *   🌍  I'm based in Valencia, Spain.
 *   ✉️  You can contact me at [josemanuelbonocampos@gmail.com](mailto:josemanuelbonocampos@gmail.com)
