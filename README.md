@@ -39,7 +39,7 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 
 #### Back-End
 <p align="left">
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="40" height="40"/> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6lpWFlnOK4NSWu4gm69Ms69304P-WG8K-Gbc3SULeRhm9_hs9sULXEn03uT7NwW64vnVUugS91bWJDQraZUo-ZiIChbCLvHOraQQ_aaXpbLMM2bkQG5c26MG_atQPy58NvLkz9TcFNl4/s1600/photo.jpg" width="36" height="36" alt="Spring" /></a>
 <a href="https://hibernate.org" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" width="36" height="36" alt="Hibernate" /></a>
