@@ -3,11 +3,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Manuel
 ===================================================================================================================================
 
-I'm Junior Full-Stack Developer
-----------------
+## I'm Junior Full-Stack Developer
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=BonoDV)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonodv&show_icons=true&locale=en&layout=compact" alt="bonodv" /></p>
+<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonodv&show_icons=true&locale=en&layout=compact" alt="bonodv" /></p> <!--->
 
 ![Codewars](https://github.r2v.ch/codewars?user=Bono0000&theme=gradient&hide_clan=true)
 <br>
