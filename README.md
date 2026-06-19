@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## I'm Junior Full-Stack Developer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BonoDV)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=BonoDV)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonodv&show_icons=true&locale=en&layout=compact" alt="bonodv" /></p> <!--->
 
