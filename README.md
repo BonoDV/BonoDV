@@ -34,7 +34,7 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 #### Desktop Development
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://learn.microsoft.com/es-es/dotnet/desktop/wpf/overview/?view=netdesktop-8.0" target="_blank" rel="noreferrer"><img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" width="36" height="36" alt="WPF" /></a>
+<a href="https://visualstudio.microsoft.com/es/vs/features/wpf/" target="_blank" rel="noreferrer"><img src="https://gitlab.com/uploads/-/system/project/avatar/19001340/wpf-logo-175.png" width="36" height="36" alt="WPF" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 
 #### Back-End
@@ -61,7 +61,7 @@ Technician in Multiplatform Application Development. Now I'm focused on Web Deve
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://visualstudio.microsoft.com/es/vs/community/" target="_blank" rel="noreferrer"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/05/vsmac-2022-icon.png" width="36" height="36" alt="Visual Studio" /></a>
-<a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="IntelIJ" /></a>
+<a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" width="36" height="36" alt="IntelIJ" /></a>
 <a href="https://eclipseide.org" target="_blank" rel="noreferrer"><img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" width="36" height="36" alt="Eclipse" /></a>
   
 ----------------
